@@ -10,7 +10,7 @@ This Jupyter notebook contains a series of Python scripts designed to interact w
 - **Plot Price Variations:** Lastly, the code includes functionality to visualize price variations for all pairs in the form of graphs, aiding in the analysis of price trends.
 
 ## Go to the project
-[jupyter notebook](uniswapV2.ipynb)
+[jupyter notebook](https://github.com/Nicolagg/UniswapV2_get_prices/blob/edfec4942a7e18becd0c9e3f48255d0c44fd03ca/uniswapV2.ipynb)
 
 ---
 **[🔙 Back to portfolio](https://nicolagg.github.io/)**
